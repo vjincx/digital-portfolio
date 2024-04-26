@@ -5,11 +5,11 @@ _Email: alex.do@email.com_ </br>
 _Location:_ New York, NY 
 
 (content:references:labels)=
-#### <u>Summary:</u>
+### <u>Summary:</u>
 
 As a data scientist with a PhD degree and 5 years of work experience (see my education), I have a deep understanding of statistical modeling, machine learning, and data visualization. My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see experience section). As a data scientist with a PhD degree and 5 years of work experience (see my education section), I have a deep understanding of statistical modeling, machine learning, and data visualization (more dteails in skills section). My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see experience section). [Example of my work can be found in analysis_example.ipynb](analysis_example.ipynb).
 
-#### Education:
+### Education:
 
 -	PhD in Computer Science, New York University, 2013-2018
 -	MS in Computer Science, University of California, Los Angeles, 2011-2013
